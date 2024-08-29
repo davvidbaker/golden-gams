@@ -1,0 +1,14 @@
+{
+    "iconDefinitions": {
+        "gms": {
+            "iconPath": "./images/gms.svg"
+        },
+        "gdx": {
+            "iconPath": "./images/gdx.svg"
+        }
+    },
+    "fileExtensions": {
+        "gms": "gms",
+        "gdx": "gdx",
+    }
+}
