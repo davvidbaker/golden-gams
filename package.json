@@ -2,14 +2,19 @@
   "name": "golden-gams",
   "displayName": "golden-gams",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "publisher": "drbaker2",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davvidbaker/golden-gams"
+  },
   "engines": {
     "vscode": "^1.92.0"
   },
   "icon": "icon.png",
   "categories": [
-    "icons",
-    "gams"
+    "Programming Languages"
   ],
   "activationEvents": [],
   "main": "./out/extension.js",
