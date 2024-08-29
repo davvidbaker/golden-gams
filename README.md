@@ -3,7 +3,7 @@
 ## Features
 
 Adds an icon to GAMS files (when Language Mode is **Gams**).
-![Example image](image-example.png)
+![Example image](https://imgur.com/a/sU38zKJ)
 
 [ ] Would be nice to have autoformatting...
 
